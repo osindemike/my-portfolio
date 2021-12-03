@@ -16,3 +16,8 @@ font-weight: bold;
 .container {
   background-color: aqua;
 }
+.nav-item {
+  font-weight: bold;
+  color: black;
+
+}
